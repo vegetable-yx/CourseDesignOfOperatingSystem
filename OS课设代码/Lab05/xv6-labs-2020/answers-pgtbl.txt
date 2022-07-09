@@ -1,0 +1,1 @@
+srcva + len < srcvas是为了防止 len 为负数，或者srcva + len后溢出，这样可能导致复制的异常.
