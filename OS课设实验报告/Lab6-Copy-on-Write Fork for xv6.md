@@ -3,7 +3,6 @@
 
 
 <center>1950787  杨鑫</center>
-
 ## 实验目的：
 
 - 了解 copy-on-write 的原理和机制
